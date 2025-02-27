@@ -5,13 +5,6 @@
  *
  * An implementation of binomial heap over positive integers.
  * 
- * Student 1 Name: Antonella Campania
- * Student 1 Username: Antonella
- * Student 1 ID: 324823095
- * 
- * Student 2 Name: Yonatan Rosh	
- * Student 2 Username: yonatanrosh
- * Student 2 ID: 209135763
  * 
  *
  */
